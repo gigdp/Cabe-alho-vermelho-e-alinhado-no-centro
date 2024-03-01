@@ -1,5 +1,4 @@
-# Cabe-alho-vermelho-e-alinhado-no-centro
-<!DOCTYPE html>
+# Cabe-alho-vermelho-e-alinhado-no-centro<!DOCTYPE html>
 <html>
   <head>
     <style>
